@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/pateljay9936/wordel.git
-cd wordle-clone
+cd wordle
 npm install
 npm run dev
 ```
