@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Wordle Clone
 
-## Getting Started
+A simple Wordle clone built with Next.js. Play the classic word-guessing game in your browser.
 
-First, run the development server:
+<!-- ## 🚀 Live Demo  
+[Click here to play](YOUR_LIVE_DEMO_LINK) -->
+
+## 📂 Repository  
+Check out the source code on GitHub:  
+[GitHub Repository](https://github.com/pateljay9936/wordel.git)
+
+## 🛠 Features  
+- Word guessing game with real-time feedback  
+- Styled using modern UI components  
+- Responsive design for mobile and desktop  
+- Keyboard input support  
+- Dark mode (optional, if included)
+
+## 🏗️ Installation  
+
+To run this project locally, follow these steps:  
 
 ```bash
+git clone https://github.com/pateljay9936/wordel.git
+cd wordle-clone
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open `http://localhost:3000` in your browser.  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📝 How to Play  
+1. Guess the **five-letter** word in six attempts.  
+2. After each guess, colors will indicate feedback:  
+   - 🟩 **Green**: Correct letter in the right position  
+   - 🟨 **Yellow**: Correct letter, wrong position  
+   - ⬜ **Gray**: Letter is not in the word  
+3. Keep guessing until you find the word or run out of attempts!  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📌 Roadmap (Optional)  
+Planned features and improvements:  
+- ✅ Basic Wordle functionality  
+- ⏳ Leaderboard and user stats  
+- ⏳ Daily challenges  
 
-## Learn More
+## 🤝 Contributing  
+If you'd like to contribute:  
+1. Fork the repository  
+2. Create a new branch (`feature/your-feature`)  
+3. Commit your changes  
+4. Open a pull request  
 
-To learn more about Next.js, take a look at the following resources:
+## 🛡 License  
+This project is licensed under the **MIT**.  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ✨ Credits  
+Developed by **jomoporo**.  
