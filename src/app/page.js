@@ -142,8 +142,8 @@ export default function Home() {
                 letter.
               </li>
             </ul>
-            <li>Press "Enter" to submit your guess.</li>
-            <li>Use "Backspace" to delete a letter.</li>
+                        <li>Press {"Enter"} to submit your guess.</li>
+            <li>Use {"Backspace"} to delete a letter.</li>
           </ul>
         </div>
       </header>
