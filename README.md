@@ -2,8 +2,8 @@
 
 A simple Wordle clone built with Next.js. Play the classic word-guessing game in your browser.
 
-<!-- ## 🚀 Live Demo  
-[Click here to play](YOUR_LIVE_DEMO_LINK) -->
+## 🚀 Live Demo  
+[Click here to play](https://wordel.jomoporo.org)
 
 ## 📂 Repository  
 Check out the source code on GitHub:  
